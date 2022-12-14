@@ -1,0 +1,74 @@
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.vbproj.AssemblyReference.cache
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.vbproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.Resources.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.vbproj.GenerateResource.cache
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.vbproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\excercise.exe.config
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\excercise.exe
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\excercise.pdb
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\bin\Debug\excercise.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.exe
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.xml
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.pdb
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.HapusKoleksi.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.Perpus.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.tambahKoleksi.resources
+C:\Users\user\Documents\Muh Fazril\Muhamad Fazril Maulana_2107411015_TI3A\excercise\excercise\obj\Debug\excercise.infoTambahKoleksi.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\bin\Debug\excercise.exe.config
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\bin\Debug\excercise.exe
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\bin\Debug\excercise.pdb
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\bin\Debug\excercise.xml
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.vbproj.AssemblyReference.cache
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.HapusKoleksi.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.infoTambahKoleksi.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.Resources.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.Perpus.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.tambahKoleksi.resources
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.vbproj.GenerateResource.cache
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.vbproj.CoreCompileInputs.cache
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.exe
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.xml
+C:\Users\Fazril\Documents\AGILL\POLTEK NEGERI JKT\MATA KULIAH\SEMESTER 3\PEMROGRAMAN VISUAL\TUGAS\excercise\excercise\obj\Debug\excercise.pdb
+C:\Users\kiran\source\repos\excercise\bin\Debug\excercise.exe.config
+C:\Users\kiran\source\repos\excercise\bin\Debug\excercise.exe
+C:\Users\kiran\source\repos\excercise\bin\Debug\excercise.pdb
+C:\Users\kiran\source\repos\excercise\bin\Debug\excercise.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\Google.Protobuf.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\MySql.Data.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\System.Buffers.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\System.Memory.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\ZstdNet.dll
+C:\Users\kiran\source\repos\excercise\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\Google.Protobuf.pdb
+C:\Users\kiran\source\repos\excercise\bin\Debug\Google.Protobuf.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\MySql.Data.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\System.Buffers.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\System.Memory.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kiran\source\repos\excercise\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.vbproj.AssemblyReference.cache
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.vbproj.SuggestedBindingRedirects.cache
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.HapusKoleksi.resources
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.infoTambahKoleksi.resources
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.login.resources
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.Resources.resources
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.Perpus.resources
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.register.resources
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.tambahKoleksi.resources
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.UpdateKoleksi.resources
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.vbproj.GenerateResource.cache
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.vbproj.CoreCompileInputs.cache
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.vbproj.CopyComplete
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.exe
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.xml
+C:\Users\kiran\source\repos\excercise\obj\Debug\excercise.pdb
