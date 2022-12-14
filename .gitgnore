@@ -1,4 +1,4 @@
-./.vs/
-./excercise/bin/
-./excercise/obj/Debug
-./excerise/obj/Releasess
+.vs/
+bin/
+obj/Debug
+obj/Release
